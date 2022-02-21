@@ -5,3 +5,5 @@ An img for snape to be added
 Added files to git
 
 Added new data
+
+adding data from terminal
