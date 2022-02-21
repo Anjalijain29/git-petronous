@@ -1,3 +1,5 @@
 lilys Petronus 
 
 An img for snape to be added
+
+Added files to git
